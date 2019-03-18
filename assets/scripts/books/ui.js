@@ -1,4 +1,4 @@
-const showBooksTemplate = require('../templates/book-listing.handlebars')
+const showBooksTemplate = require('../templates/books-view.handlebars')
 const store = require('../store.js')
 
 const getBooksSuccess = (data) => {
